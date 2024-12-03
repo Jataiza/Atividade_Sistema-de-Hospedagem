@@ -158,7 +158,7 @@ public class SistemaAluguel {
         residencia3.adicionarQuarto(new Quarto(110, false, false, true)); // Casal
 
         // Criando cliente
-        Cliente cliente = new Cliente("Carlos Souza", "123.456.789-00", "Rua X", "(11) 4567-8901", "cliente@email.com");
+        Cliente cliente = new Cliente("Jataiza De Arruda Barboza", "123.456.789-00", "Rua Maria Duarte", "(11) 4567-8901", "jata@gmail.coom");
 
         // Leitura dos dados de aluguel
         Scanner scanner = new Scanner(System.in);
